@@ -8,9 +8,9 @@ The following repository has an example of LLSE Regression in python
 
 - This application was built in python 3.11
 
-- Install `pipenv` by following (this documentation)[https://pypi.org/project/pipenv/]
+- Install `pipenv` by following [this documentation](https://pypi.org/project/pipenv/)
 
-> Alternatively, you can install pipenv using brew following (this documentation)[https://formulae.brew.sh/formula/pipenv]
+> Alternatively, you can install pipenv using brew following [this documentation](https://formulae.brew.sh/formula/pipenv)
 
 - Once installed, change the current working directory to this project's root
 
