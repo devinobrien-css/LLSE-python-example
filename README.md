@@ -1,4 +1,4 @@
-# CSI 536 HW 2 - LLSE Regression
+LLSE Regression
 
 The following repository has an example of LLSE Regression in python
 
